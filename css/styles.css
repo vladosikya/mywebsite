@@ -1,0 +1,94 @@
+body {
+    background-color: #FFE4C0;
+    margin: 0px;
+    text-align: center;
+}
+
+.last {
+    text-shadow: 1px 1px 1px #000;
+    font-size: 5rem;
+}
+
+h1 {
+    width: 25;
+    margin: 0 auto 0 auto;
+    font-family: 'Merriweather', serif;
+    color: #BFFFF0;
+    text-shadow: 1px 1px 1px #000
+    font-size: 3rem;
+}
+
+
+.top {
+    background-color: #FFE4C0;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.middle {
+    background: #FFE4C0;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 3rem;
+}
+
+.cloud {
+    width: 200px;
+    height: 100px;
+}
+
+#cloud2 {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+
+#cloud3 {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 20%;
+    left: 70%;
+}
+
+.forest {
+    width: 500px;
+    height: 500px;
+}
+
+.bottom {
+    background: #FFE4C0;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 3rem;
+}
+
+#title {
+    width: 25;
+    margin: 0 auto 0 auto;
+    font-family: 'Merriweather', serif;
+    color: #BFFFF0;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 5rem;
+}
+
+td {
+    padding: 20px;
+    width: 25;
+    margin: 0 auto 0 auto;
+    color: #B4CFB0;
+    font-family: 'Sacramento', cursive;
+    font-size: 1.8rem;
+}
+
+.maintable {
+    margin: 0 auto 0 auto;
+}
+
+p {
+    width: 25;
+    margin: 0 auto 0 auto;
+    color: #B4CFB0;
+    font-family: 'Sacramento', cursive;
+    padding: 5px;
+    font-size: 2rem;
+}
